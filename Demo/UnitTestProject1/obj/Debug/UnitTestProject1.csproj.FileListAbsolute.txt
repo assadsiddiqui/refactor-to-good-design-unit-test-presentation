@@ -1,0 +1,83 @@
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.dll
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.pdb
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Assad\Apps\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\Castle.Core.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\NSubstitute.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.pdb
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.pdb
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.xml
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Assad\UnitTestProject\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+E:\Assad\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\Assad\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+E:\Assad\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Assad\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Assad\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\NSubstitute.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.pdb
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\FluentAssertions.xml
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\FluentAssertions.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\NSubstitute.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\FluentAssertions.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\FluentAssertions.xml
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\Solution2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\FluentAssertions.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\NSubstitute.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\FluentAssertions.pdb
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\FluentAssertions.xml
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+C:\Assad\Using Unit Tests to Write Better Code\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete

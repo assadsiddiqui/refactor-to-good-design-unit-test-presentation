@@ -1,0 +1,17 @@
+E:\Assad\Apps\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.csprojResolveAssemblyReference.cache
+E:\Assad\Apps\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.dll
+E:\Assad\Apps\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.pdb
+E:\Assad\Apps\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.dll
+E:\Assad\Apps\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.pdb
+E:\Assad\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.dll
+E:\Assad\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.pdb
+E:\Assad\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+E:\Assad\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.dll
+E:\Assad\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.pdb
+E:\Assad\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\bin\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\UnitTestProject\PaymentSystem\obj\Debug\PaymentSystem.pdb
