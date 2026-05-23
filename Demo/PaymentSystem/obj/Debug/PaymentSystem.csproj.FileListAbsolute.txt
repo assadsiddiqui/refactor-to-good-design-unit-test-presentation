@@ -27,3 +27,9 @@ C:\Assad\Using Unit Tests to Write Better Code\Demo\PaymentSystem\obj\Debug\Paym
 C:\Assad\Using Unit Tests to Write Better Code\Demo\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
 C:\Assad\Using Unit Tests to Write Better Code\Demo\PaymentSystem\obj\Debug\PaymentSystem.dll
 C:\Assad\Using Unit Tests to Write Better Code\Demo\PaymentSystem\obj\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\bin\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\bin\Debug\PaymentSystem.pdb
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\obj\Debug\PaymentSystem.csproj.AssemblyReference.cache
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\obj\Debug\PaymentSystem.dll
+C:\Assad\Using Unit Tests to Write Better Code\refactor-to-good-design-unit-test-presentation\Demo\PaymentSystem\obj\Debug\PaymentSystem.pdb
